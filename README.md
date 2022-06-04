@@ -1,4 +1,5 @@
-### Hello 
+### Hello, I am Douglas Correa Gomes
+
 
 - 😎 I’m currently learning JavaScript
 
